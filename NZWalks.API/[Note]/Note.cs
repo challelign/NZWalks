@@ -3,6 +3,15 @@
     public class Note
     {
 
+        /* 
+        Npgsql.EntityFrameworkCore.PostgreSQL
+        Microsoft.EntityFrameworkCore.Tools
+        System.IdentityModel.Tokens.Jwt
+        Microsoft.AspNetCore.Authentication.JwtBearer
+        Microsoft.IdentityModel.Tokens
+        Microsoft.AspNetCore.Identity.EntityFrameworkCore
+        
+         */
 
         /*
 

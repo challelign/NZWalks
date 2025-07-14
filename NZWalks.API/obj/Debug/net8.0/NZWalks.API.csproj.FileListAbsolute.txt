@@ -275,3 +275,17 @@ D:\projects\ASP dotnet\NZWalks\NZWalks.API\obj\Debug\net8.0\refint\NZWalks.API.d
 D:\projects\ASP dotnet\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.pdb
 D:\projects\ASP dotnet\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.genruntimeconfig.cache
 D:\projects\ASP dotnet\NZWalks\NZWalks.API\obj\Debug\net8.0\ref\NZWalks.API.dll
+D:\projects\ASP dotnet\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\projects\ASP dotnet\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\projects\ASP dotnet\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\projects\ASP dotnet\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\projects\ASP dotnet\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\projects\ASP dotnet\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\projects\ASP dotnet\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\projects\ASP dotnet\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\projects\ASP dotnet\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\projects\ASP dotnet\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\projects\ASP dotnet\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\projects\ASP dotnet\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\projects\ASP dotnet\NZWalks\NZWalks.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\projects\ASP dotnet\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.sourcelink.json
