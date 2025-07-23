@@ -1,8 +1,11 @@
-# Ignore Visual Studio files
+# Visual Studio files
 .vs\
 *.user
 *.suo
 
-# Ignore build outputs
-bin/
-obj/
+# Build outputs
+NZWalks.API\bin\
+NZWalks.API\obj\
+
+# Migrations (if you want to ignore them)
+# NZWalks.API/Migrations\
